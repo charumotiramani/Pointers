@@ -8,7 +8,8 @@ A pointer is a derived data type in C that can store the address of other variab
 ![image](https://user-images.githubusercontent.com/91966613/234338910-66907713-4e16-4e11-8524-4b955eca28c2.png)  
 
 1. Addressof Operator  
-The addressof operator ( & ) is a unary operator that returns the address of its operand.Its operand can be a variable, function, array, structure, etc.  
+The addressof operator ( & ) is a unary operator that returns the address of its operand.  
+Its operand can be a variable, function, array, structure, etc.  
 
 ##### Syntax of Address of Operator  
         &variable_name;  
